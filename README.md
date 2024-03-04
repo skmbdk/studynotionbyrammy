@@ -1,5 +1,7 @@
 # Study Notion
 
+live link-:https://studynotionbysubham.vercel.app/
+
 Study Notion is an ED Tech (Education Technology) web application developed using the MERN stack.
 
 ## Note
